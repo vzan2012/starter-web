@@ -19,3 +19,5 @@ This is a simple web project, deployment can be on any web server or even local 
 2018 My Git Training.(Author: vzan2012 (NickName))
 
 ## How To Contribute
+
+Please fork this repository and then issue Pull requests for review.
