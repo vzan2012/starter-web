@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    vzan2012 -- UI/UX Developer -- -
 
 # THANKS
 
