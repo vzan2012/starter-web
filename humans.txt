@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Thanks to my tutor.
+    Thanks to my tutor Jason Taylor for providng a great wonderful tutorial.
 
 # TECHNOLOGY COLOPHON
 
