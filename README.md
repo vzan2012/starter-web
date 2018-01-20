@@ -16,7 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## Copyright
  
-2018 My Git Training.(Author: vzan2012 (NickName))
+2018 My Git Training. All Rights Reserved. (Author: vzan2012 (NickName))
 
 ## How To Contribute
 
